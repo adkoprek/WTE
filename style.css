@@ -1,0 +1,135 @@
+@font-face {
+    font-family: 'Larke Regular';
+    src: url('assets/fonts/LarkeRegular.ttf');
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #fafafa;
+    font-family: Larke Regular;
+}
+
+#map { 
+    height: 100dvh; 
+} 
+
+#cards {
+    left: 0;
+    right: 0;
+    top: 58dvh;
+    bottom: 6dvh;
+    display: flex;
+    overflow-x: auto;
+    flex-wrap: nowrap;
+    overflow-y: hidden;
+    position: absolute;
+    flex-direction: row;
+    align-items: stretch;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+    transition: all .5s ease-in-out;
+}
+
+.card {
+    background-color: white;
+    width: 94vw;
+    flex-grow: 0;
+    margin: 0 3vw;
+    display: flex;
+    flex-shrink: 0;
+    flex-basis: 94vw;
+    padding: .75rem 0;
+    border-radius: 4vw;
+    background-color: fafafa;
+    justify-content: space-between;
+    position: relative;
+    background: rgb(238,252,255);
+    background: linear-gradient(135deg, rgba(238,252,255,1) 0%, rgba(235,255,229,1) 30%, rgba(254,255,238,1) 70%, rgba(255,221,221,1) 100%);
+}
+
+.edge {
+    color: #fafafa;
+}
+
+.stars {
+    z-index: 2;
+    margin-top: 8px;
+}
+
+.stars i {
+    margin: 0 0.5dvh;
+    color: #ffe234;
+}
+
+.card-content {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.card p {
+    z-index: 2;
+    text-align: center;
+    font-size: max(20px, 6vw);
+}
+
+.card button {
+    width: 60px;
+    border: none;
+    height: 100%;
+    border-radius: 100%;
+    background: transparent;
+    font-size: max(6vw, 30px);
+}
+
+.wrapper {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.restaurant {
+    display: flex;
+}
+
+.restaurant p {
+    font-size: 3.5vw;
+}
+
+.restaurant img {
+    height: 25dvh;
+    border-radius: 1vw;
+    z-index: 2;
+}
+
+.menu {
+    display: flex;
+}
+
+.products {
+    display: flex;
+    margin-left: 3vw;
+    flex-direction: column;
+    align-items: start;
+}
+
+.products p {
+    margin-bottom: 1dvh;
+}
+
+.prices {
+    display: flex;
+    margin-left: 3vw;
+    flex-direction: column;
+    align-items: start;
+}
+
+.prices p {
+    margin-bottom: 1dvh;
+}
