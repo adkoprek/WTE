@@ -28,7 +28,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](assets/screenshot.jpg)
+[![Product Name Screen Shot][product-screenshot]](./assets/screenshot.png)
 
 There are many greate places to eat in Turgi, Switzerland but most of them are hidden or don't seem very appealing. So I created this app that takes my favourite places to eat and displey them to everyone on thier mobile phone.
 
@@ -85,11 +85,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Adam Korpek - adam.koprek@edu.schulen-Turgi.ch
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/adkoprek/WTE)
+Project Link: [https://github.com/adkoprek/WTE](https://github.com/adkoprek/WTE)
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/adkoprek/WTE/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
@@ -101,11 +99,11 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/ad
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/adkoprek/WTE/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
-[HTML.js]: https://img.shields.io/badge/html-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[HTML.js]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [HTML-url]: https://html.com
-[CSS-js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=&logoColor=61DAFB
+[CSS.js]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [CSS-url]: https://css.com
-[JavaScript.js]: https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square
+[JavaScript.js]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 [JavaScript-url]: https://en.wikipedia.org/wiki/CSS
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
