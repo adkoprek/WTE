@@ -3,7 +3,6 @@
     src: url('assets/fonts/LarkeRegular.ttf');
 }
 
-
 * {
     margin: 0;
     padding: 0;
@@ -44,11 +43,11 @@ body {
     flex-shrink: 0;
     flex-basis: 94vw;
     padding: .75rem 0;
+    position: relative;
     border-radius: 4vw;
     background-color: fafafa;
-    justify-content: space-between;
-    position: relative;
     background: rgb(238,252,255);
+    justify-content: space-between;
     background: linear-gradient(135deg, rgba(238,252,255,1) 0%, rgba(235,255,229,1) 30%, rgba(254,255,238,1) 70%, rgba(255,221,221,1) 100%);
 }
 
@@ -62,8 +61,8 @@ body {
 }
 
 .stars i {
-    margin: 0 0.5dvh;
     color: #ffe234;
+    margin: 0 0.5dvh;
 }
 
 .card-content {
@@ -103,9 +102,9 @@ body {
 }
 
 .restaurant img {
+    z-index: 2;
     height: 25dvh;
     border-radius: 1vw;
-    z-index: 2;
 }
 
 .menu {
@@ -115,8 +114,8 @@ body {
 .products {
     display: flex;
     margin-left: 3vw;
-    flex-direction: column;
     align-items: start;
+    flex-direction: column;
 }
 
 .products p {
@@ -126,8 +125,8 @@ body {
 .prices {
     display: flex;
     margin-left: 3vw;
-    flex-direction: column;
     align-items: start;
+    flex-direction: column;
 }
 
 .prices p {
