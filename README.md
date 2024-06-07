@@ -1,10 +1,23 @@
 <a name="readme-top"></a>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+<p align="center">
+  <a href="https://github.com/adkoprek/WTE/graphs/contributors">
+	  <img src="https://img.shields.io/github/contributors/adkoprek/WTE.svg?style=for-the-badge" alt="Contributors">
+  </a>
+  <a href="https://github.com/adkoprek/WTE/network/members">
+	  <img src="https://img.shields.io/github/forks/adkoprek/WTE.svg?style=for-the-badge" alt="Forks">
+  </a>
+  <a href="https://github.com/adkoprek/WTE/stargazers">
+	  <img src="https://img.shields.io/github/stars/adkoprek/WTE.svg?style=for-the-badge" alt="Stargazers">
+  </a>
+  <a href="https://github.com/adkoprek/WTE/issues">
+	  <img src="https://img.shields.io/github/issues/adkoprek/WTE.svg?style=for-the-badge" alt="Issues">
+  </a>
+  <a href="https://github.com/adkoprek/WTE/blob/master/LICENSE.txt">
+	  <img src="https://img.shields.io/github/license/adkoprek/WTE.svg?style=for-the-badge" alt="MIT License">
+  </a>
+</p>
+
 
 <br />
 <div align="center">
@@ -87,18 +100,6 @@ Adam Korpek - adam.koprek@edu.schulen-Turgi.ch
 
 Project Link: [https://github.com/adkoprek/WTE](https://github.com/adkoprek/WTE)
 
-
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/adkoprek/WTE/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/adkoprek/WTE/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/adkoprek/WTE/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/adkoprek/WTE/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/adkoprek/WTE/blob/master/LICENSE.txt
-[product-screenshot]: images/screenshot.png
 [HTML.js]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [HTML-url]: https://html.com
 [CSS.js]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
