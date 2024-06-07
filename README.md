@@ -28,7 +28,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](./assets/screenshot.png)
+<p align="center">
+  <img src="assets/screenshot.png" alt="Screenshot"/>
+</p>
 
 There are many greate places to eat in Turgi, Switzerland but most of them are hidden or don't seem very appealing. So I created this app that takes my favourite places to eat and displey them to everyone on thier mobile phone.
 
