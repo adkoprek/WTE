@@ -98,8 +98,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Adam Korpek - adam.koprek@edu.schulen-Turgi.ch
 
-Project Link: [https://github.com/adkoprek/WTE](https://github.com/adkoprek/WTE)
-
 [HTML.js]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [HTML-url]: https://html.com
 [CSS.js]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
@@ -108,4 +106,3 @@ Project Link: [https://github.com/adkoprek/WTE](https://github.com/adkoprek/WTE)
 [JavaScript-url]: https://en.wikipedia.org/wiki/CSS
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
-
